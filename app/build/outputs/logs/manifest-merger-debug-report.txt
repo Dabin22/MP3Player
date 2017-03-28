@@ -1,0 +1,96 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Workspace\MVP\MVPPlayer\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Workspace\MVP\MVPPlayer\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from C:\Workspace\MVP\MVPPlayer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Workspace\MVP\MVPPlayer\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Workspace\MVP\MVPPlayer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Workspace\MVP\MVPPlayer\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Workspace\MVP\MVPPlayer\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Workspace\MVP\MVPPlayer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Workspace\MVP\MVPPlayer\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Workspace\MVP\MVPPlayer\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\Workspace\MVP\MVPPlayer\app\src\main\AndroidManifest.xml:5:22-77
+uses-permission#android.permission.MEDIA_CONTENT_CONTROL
+ADDED from C:\Workspace\MVP\MVPPlayer\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Workspace\MVP\MVPPlayer\app\src\main\AndroidManifest.xml:6:22-77
+application
+ADDED from C:\Workspace\MVP\MVPPlayer\app\src\main\AndroidManifest.xml:8:5-22:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Lee\.android\build-cache\5bf7ffb94d3d7ff91fcc8db998e5d2ef610ff484\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Lee\.android\build-cache\97fc43663b6bc894a5c4393c8ae6647dbc605e70\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Lee\.android\build-cache\d8db8cba9c276205ecb8d3c0643581cc3b67a221\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Lee\.android\build-cache\1d819cac0ab28acaf9fa534c3db7db56c13f563d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Lee\.android\build-cache\cf5ecdba2b925d37455d12e695bfaa79286152bd\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Lee\.android\build-cache\e5d2f29f5fa2e0ccc888835e52706fe2c736c2cd\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Lee\.android\build-cache\9d0f0c0db1e28eee993853212b864cc7a2092c60\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Lee\.android\build-cache\54d7b4d80beb895a55b5386080d30f1dd6c22c3f\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Lee\.android\build-cache\fb2d115fade10fa7ac895baa3331320399b76bae\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Lee\.android\build-cache\d3850c7b9898f597f1ef2d5ff4e6d2c8134cfed3\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Workspace\MVP\MVPPlayer\app\src\main\AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from C:\Workspace\MVP\MVPPlayer\app\src\main\AndroidManifest.xml:13:9-35
+	android:roundIcon
+		ADDED from C:\Workspace\MVP\MVPPlayer\app\src\main\AndroidManifest.xml:12:9-54
+	android:allowBackup
+		ADDED from C:\Workspace\MVP\MVPPlayer\app\src\main\AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from C:\Workspace\MVP\MVPPlayer\app\src\main\AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from C:\Workspace\MVP\MVPPlayer\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.mvp.lee.mvpplayer.view.musiclist.MusicList
+ADDED from C:\Workspace\MVP\MVPPlayer\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Workspace\MVP\MVPPlayer\app\src\main\AndroidManifest.xml:15:19-59
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Workspace\MVP\MVPPlayer\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Workspace\MVP\MVPPlayer\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Workspace\MVP\MVPPlayer\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Workspace\MVP\MVPPlayer\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Workspace\MVP\MVPPlayer\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from C:\Workspace\MVP\MVPPlayer\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Lee\.android\build-cache\5bf7ffb94d3d7ff91fcc8db998e5d2ef610ff484\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Lee\.android\build-cache\97fc43663b6bc894a5c4393c8ae6647dbc605e70\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Lee\.android\build-cache\d8db8cba9c276205ecb8d3c0643581cc3b67a221\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Lee\.android\build-cache\1d819cac0ab28acaf9fa534c3db7db56c13f563d\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Lee\.android\build-cache\cf5ecdba2b925d37455d12e695bfaa79286152bd\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Lee\.android\build-cache\e5d2f29f5fa2e0ccc888835e52706fe2c736c2cd\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Lee\.android\build-cache\9d0f0c0db1e28eee993853212b864cc7a2092c60\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Lee\.android\build-cache\54d7b4d80beb895a55b5386080d30f1dd6c22c3f\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Lee\.android\build-cache\fb2d115fade10fa7ac895baa3331320399b76bae\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\Lee\.android\build-cache\02ea1266d2e8e669ca3cef45c0e645705e8c3f3c\output\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Lee\.android\build-cache\d3850c7b9898f597f1ef2d5ff4e6d2c8134cfed3\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Lee\.android\build-cache\5bf7ffb94d3d7ff91fcc8db998e5d2ef610ff484\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Workspace\MVP\MVPPlayer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Workspace\MVP\MVPPlayer\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Workspace\MVP\MVPPlayer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Workspace\MVP\MVPPlayer\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Lee\.android\build-cache\5bf7ffb94d3d7ff91fcc8db998e5d2ef610ff484\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Lee\.android\build-cache\97fc43663b6bc894a5c4393c8ae6647dbc605e70\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Lee\.android\build-cache\d8db8cba9c276205ecb8d3c0643581cc3b67a221\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Lee\.android\build-cache\1d819cac0ab28acaf9fa534c3db7db56c13f563d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Lee\.android\build-cache\cf5ecdba2b925d37455d12e695bfaa79286152bd\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Lee\.android\build-cache\e5d2f29f5fa2e0ccc888835e52706fe2c736c2cd\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Lee\.android\build-cache\9d0f0c0db1e28eee993853212b864cc7a2092c60\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Lee\.android\build-cache\54d7b4d80beb895a55b5386080d30f1dd6c22c3f\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Lee\.android\build-cache\d3850c7b9898f597f1ef2d5ff4e6d2c8134cfed3\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Lee\.android\build-cache\5bf7ffb94d3d7ff91fcc8db998e5d2ef610ff484\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Lee\.android\build-cache\5bf7ffb94d3d7ff91fcc8db998e5d2ef610ff484\output\AndroidManifest.xml:26:9-47

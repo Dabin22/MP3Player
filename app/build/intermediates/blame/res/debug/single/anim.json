@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Workspace\\MVP\\MVPPlayer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Lee\\.android\\build-cache\\5bf7ffb94d3d7ff91fcc8db998e5d2ef610ff484\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Workspace\\MVP\\MVPPlayer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Lee\\.android\\build-cache\\5bf7ffb94d3d7ff91fcc8db998e5d2ef610ff484\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Workspace\\MVP\\MVPPlayer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Lee\\.android\\build-cache\\5bf7ffb94d3d7ff91fcc8db998e5d2ef610ff484\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Workspace\\MVP\\MVPPlayer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Lee\\.android\\build-cache\\5bf7ffb94d3d7ff91fcc8db998e5d2ef610ff484\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Workspace\\MVP\\MVPPlayer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Lee\\.android\\build-cache\\5bf7ffb94d3d7ff91fcc8db998e5d2ef610ff484\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Workspace\\MVP\\MVPPlayer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Lee\\.android\\build-cache\\5bf7ffb94d3d7ff91fcc8db998e5d2ef610ff484\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Workspace\\MVP\\MVPPlayer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Lee\\.android\\build-cache\\5bf7ffb94d3d7ff91fcc8db998e5d2ef610ff484\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Workspace\\MVP\\MVPPlayer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Lee\\.android\\build-cache\\5bf7ffb94d3d7ff91fcc8db998e5d2ef610ff484\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Workspace\\MVP\\MVPPlayer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Lee\\.android\\build-cache\\5bf7ffb94d3d7ff91fcc8db998e5d2ef610ff484\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Workspace\\MVP\\MVPPlayer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Lee\\.android\\build-cache\\5bf7ffb94d3d7ff91fcc8db998e5d2ef610ff484\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    }
+]

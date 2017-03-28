@@ -1,0 +1,7 @@
+#Tue Mar 28 17:39:05 KST 2017
+base.0=C\:\\Workspace\\MVP\\MVPPlayer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_db7e1aa6e350107db065a31e021287f2bbb4ab54
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Workspace\\MVP\\MVPPlayer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_fa10b963006d001ebd31f72687ff2cc0c20d2213\\classes.dex
+base.1=C\:\\Workspace\\MVP\\MVPPlayer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_fa10b963006d001ebd31f72687ff2cc0c20d2213
+file.0=C\:\\Workspace\\MVP\\MVPPlayer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_db7e1aa6e350107db065a31e021287f2bbb4ab54\\classes.dex

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lee\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.5.1\bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc\butterknife-annotations-8.5.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc">
+        <dex dex="C:\Workspace\MVP\MVPPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.5.1_466d404c29b5057bebc27939be7d75cf460cb331\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lee\.android\build-cache\97fc43663b6bc894a5c4393c8ae6647dbc605e70\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Workspace\MVP\MVPPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4452fe00655d692f142a9daaf73c97aca0d84c7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\MVP\MVPPlayer\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ae5564480b3bdbcc03cf1c332d3d5d2f62044ce">
+        <dex dex="C:\Workspace\MVP\MVPPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_db7e1aa6e350107db065a31e021287f2bbb4ab54\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lee\.android\build-cache\d3850c7b9898f597f1ef2d5ff4e6d2c8134cfed3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Workspace\MVP\MVPPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5f7c0522267bf76ba48a61223888d50408ddbd32\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lee\.android\build-cache\fb2d115fade10fa7ac895baa3331320399b76bae\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Workspace\MVP\MVPPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_27b7977afa32628f876da192f9772e616d1330b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lee\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Workspace\MVP\MVPPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_0905407f07c882466b81b7d104daf1ea73dc4e2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lee\.android\build-cache\d8db8cba9c276205ecb8d3c0643581cc3b67a221\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Workspace\MVP\MVPPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1d5c93c1269da2bca415bf97b0af6be81e634572\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lee\.android\build-cache\1d819cac0ab28acaf9fa534c3db7db56c13f563d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Workspace\MVP\MVPPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0b53d1e08022d7b338663f691fe25f3bd2dd72f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lee\.android\build-cache\54d7b4d80beb895a55b5386080d30f1dd6c22c3f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Workspace\MVP\MVPPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_819c691a15991c6d9185a5ada5177e6b4372c312\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lee\.android\build-cache\cf5ecdba2b925d37455d12e695bfaa79286152bd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Workspace\MVP\MVPPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5e7f72df6d2fceab86aa9aec56a678a92a4efc75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\MVP\MVPPlayer\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Workspace\MVP\MVPPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_fa10b963006d001ebd31f72687ff2cc0c20d2213\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lee\.android\build-cache\9d0f0c0db1e28eee993853212b864cc7a2092c60\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Workspace\MVP\MVPPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_46abf0ea973f6b9590ac1fd92b0c605a1970f30b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lee\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Workspace\MVP\MVPPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_6a4aeb383137b363b21d87412d5a758d7d9d0ef4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lee\.android\build-cache\02ea1266d2e8e669ca3cef45c0e645705e8c3f3c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
+        <dex dex="C:\Workspace\MVP\MVPPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d2ecc0292e6b5353e95a44ee68f0e8f32730b4c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lee\.android\build-cache\5bf7ffb94d3d7ff91fcc8db998e5d2ef610ff484\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Workspace\MVP\MVPPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a9874c9ee2291dc8aa815e8cb81dcf423b15d3e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lee\.android\build-cache\e5d2f29f5fa2e0ccc888835e52706fe2c736c2cd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Workspace\MVP\MVPPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5bd1beb0e5e8192151dda71abe50a0e8f42d59a2\classes.dex" />
+    </item>
+
+</items>

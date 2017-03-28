@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Workspace\\MVP\\MVPPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Lee\\.android\\build-cache\\5bf7ffb94d3d7ff91fcc8db998e5d2ef610ff484\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Workspace\\MVP\\MVPPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Lee\\.android\\build-cache\\5bf7ffb94d3d7ff91fcc8db998e5d2ef610ff484\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Workspace\\MVP\\MVPPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Lee\\.android\\build-cache\\5bf7ffb94d3d7ff91fcc8db998e5d2ef610ff484\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Workspace\\MVP\\MVPPlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Lee\\.android\\build-cache\\5bf7ffb94d3d7ff91fcc8db998e5d2ef610ff484\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]
